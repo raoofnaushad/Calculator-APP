@@ -1,16 +1,10 @@
 # Calculator-APP
-Simple calculator app using Tkinter library.
+Simple calculator applications using Tkinter library.
 
+1) Calculator.py <> This calculator with simple GUI can also show the history of calculations made.
 
-Pycharm community edition is used to create a simple calculator that even shows the history of operations.
+![Calculator](calcualator.png)
 
+2) Scientific Calulcator <> This calculator with modified GUI can do almost all the calculations.
 
-Tkinter is used to created the GUI.
-
-3 files are listed such that modificiations are done.
-
-
-calculator3.py is the last modified and updated code.
-
-
-Thankyou
+![Scientific Calculator](scientific.png)
